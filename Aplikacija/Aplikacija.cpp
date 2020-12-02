@@ -6,7 +6,7 @@
 
 int main()
 {
-    printf("Pozdrav iz aplikacije od Ivan Kaucic");
+    printf("Pozdrav iz aplikacije od Ivan Kaucic. Broj indexa: 456211");
     return 0;
 }
 
